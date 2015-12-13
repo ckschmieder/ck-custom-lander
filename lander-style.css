@@ -86,8 +86,8 @@
 #contact {
     color: #fff;
     color: hsl(0, 0%, 100%);
-    background: #7A8A61;
-    background: hsl(83, 17%, 46%);
+    /*background: #7A8A61;
+    background: hsl(83, 17%, 46%);*/
     padding: 4rem 0;
 }
 
@@ -326,8 +326,8 @@
 #call-to-action {
     color: #fff;
     color: hsl(0, 0%, 100%);
-    background: #7A8A61;
-    background: hsl(83, 17%, 46%);
+    /*background: #7A8A61;
+    background: hsl(83, 17%, 46%);*/
     padding: 4rem 0;
 }
 
@@ -396,20 +396,21 @@
   padding: 15px 20px;
   display: block;
   text-decoration: none;
-  color: #ffffff;
-  text-shadow: 0 -1px 1px #ffffff;
-  border-right: 1px solid #839b4e;
+  /*color: #ffffff;*/
+  /*text-shadow: 0 -1px 1px #ffffff;*/
+  /*border-right: 1px solid #839b4e;*/
 }
 #site-navigation a:hover {
-  color: #ffffff;
-  text-shadow: 0 1px 1px #bdcd9c;
+  /*color: #000000;*/
+  /*text-shadow: 0 1px 1px #bdcd9c;*/
 }
 #site-navigation li {
   float: left;
-  border-right: 1px solid #b2c58b;
+  /*border-right: 1px solid #b2c58b;*/
 }
 #site-navigation a:hover {
-  background: #9cb369 url(images/pattern.png) top left repeat;
+  /*background: #ffffff;*/
+  font-style: bold;
 }
 #site-navigation li:first-child {
   border-left: none;
